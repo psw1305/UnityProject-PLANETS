@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - EnemyBullet
+  - Particle
+  - PlayerTurret
+  - EnemyTurret
+  - Explosion
+  - EnemyShip
+  - PlayerShip
+  - PlayerPosition
+  - EnemyPosition
+  - UICamera
+  - UIPlayer
+  - UIEnemy
+  - Thruster
+  - EnemyFighter
+  - PlayerFighter
+  - UI
+  - ObjectPool
+  - MissionPosition
+  - Stage
+  - Blind
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Turret
+    uniqueID: 13875303
+    locked: 0
+  - name: Bullet
+    uniqueID: 4258398169
+    locked: 0
+  - name: Effect
+    uniqueID: 170553765
+    locked: 0
+  - name: SubEffect
+    uniqueID: 1659677995
+    locked: 0

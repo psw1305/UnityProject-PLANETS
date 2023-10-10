@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1575188815540254
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4387673465830840}
+  - component: {fileID: 114512741570643284}
+  m_Layer: 0
+  m_Name: Building2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4387673465830840
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1575188815540254}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114512741570643284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1575188815540254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 0}
+  mSprites:
+  - name: Build_Industry_ControlCenter
+    x: 0
+    y: 3119
+    width: 1377
+    height: 977
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 311
+    paddingRight: 312
+    paddingTop: 0
+    paddingBottom: 3
+  - name: Build_Industry_DroneFactory
+    x: 1379
+    y: 3351
+    width: 815
+    height: 745
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 1022
+    paddingRight: 163
+    paddingTop: 4
+    paddingBottom: 1
+  - name: Build_Industry_RepairYards
+    x: 2196
+    y: 3360
+    width: 798
+    height: 736
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 180
+    paddingRight: 1022
+    paddingTop: 4
+    paddingBottom: 0
+  - name: Build_Military_Academy
+    x: 0
+    y: 1169
+    width: 1897
+    height: 417
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 52
+    paddingRight: 51
+    paddingTop: 3
+    paddingBottom: 0
+  - name: Build_Military_HeadQuarters
+    x: 1379
+    y: 2666
+    width: 1984
+    height: 683
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 8
+    paddingRight: 8
+    paddingTop: 6
+    paddingBottom: 1
+  - name: Build_Military_Infirmary
+    x: 0
+    y: 1715
+    width: 1576
+    height: 273
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 212
+    paddingRight: 212
+    paddingTop: 2
+    paddingBottom: 5
+  - name: Build_Sub_HangarExpansion
+    x: 1800
+    y: 1588
+    width: 1339
+    height: 527
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 330
+    paddingRight: 331
+    paddingTop: 3
+    paddingBottom: 0
+  - name: Build_Sub_ResourceRecycling
+    x: 0
+    y: 1990
+    width: 1798
+    height: 674
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 101
+    paddingRight: 101
+    paddingTop: 2
+    paddingBottom: 4
+  - name: Build_Sub_SpaceHabitat
+    x: 1800
+    y: 2117
+    width: 1787
+    height: 547
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 106
+    paddingRight: 107
+    paddingTop: 2
+    paddingBottom: 1
+  mPixelSize: 1
+  mReplacement: {fileID: 11400000, guid: 251d80e7610e6064a93b5b58b787de0b, type: 2}
+  mCoordinates: 0
+  sprites: []

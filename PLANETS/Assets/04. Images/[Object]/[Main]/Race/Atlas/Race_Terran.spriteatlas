@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Race_Terran
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1ab8759344df8394eabe7083580f5eeb, type: 3}
+    totalSpriteSurfaceArea: 14016960
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 695b1010361528f4bbed2b0e6b4fe77a, type: 3}
+  - {fileID: 21300000, guid: 92793721da3094a4085d725e851207e7, type: 3}
+  - {fileID: 21300000, guid: f61b69d1bdb61cd4aacdb958638d121f, type: 3}
+  - {fileID: 21300000, guid: 0c203502900d7864e88f3e940b784f31, type: 3}
+  - {fileID: 21300000, guid: 944dc1125439e9447a1a96091963c061, type: 3}
+  - {fileID: 21300000, guid: 199803825b571b54683d92368391c4d8, type: 3}
+  - {fileID: 21300000, guid: a7f59ab28e0aca8468a65f385281dece, type: 3}
+  - {fileID: 21300000, guid: cc75f2c2922a86744ab06f9ea84ec8c2, type: 3}
+  - {fileID: 21300000, guid: 477b810339e8c734b848a37cdf19c992, type: 3}
+  - {fileID: 21300000, guid: f2e806235a2e2834b861bb42236eeaff, type: 3}
+  - {fileID: 21300000, guid: b76db153c90e2c446b0a21214f30cb84, type: 3}
+  - {fileID: 21300000, guid: df64018313b089f42a072bb3fa2099db, type: 3}
+  - {fileID: 21300000, guid: cd1c91933ea0d0c49b17718b639beb19, type: 3}
+  - {fileID: 21300000, guid: d925e0b3e63fc7a4486a5d5402a32cfc, type: 3}
+  - {fileID: 21300000, guid: 1232dfb4d7c0c5b4da253abec83a0605, type: 3}
+  - {fileID: 21300000, guid: 0bbcfbc48ce7bf54d92157dc24b256fd, type: 3}
+  - {fileID: 21300000, guid: c7f6143543698e145aa45dd58b2e1c8f, type: 3}
+  - {fileID: 21300000, guid: 77c542a5d7c03ab45b16a96d67d76253, type: 3}
+  - {fileID: 21300000, guid: 9a8c0ae5e11ea094280823f89292c2f8, type: 3}
+  - {fileID: 21300000, guid: a15c2006c642859418cc2aecba7b4b9e, type: 3}
+  - {fileID: 21300000, guid: f9dacc46793cd0e4285b205c1ff0bd1f, type: 3}
+  - {fileID: 21300000, guid: fae3d9177347f434a975f516215e5bd7, type: 3}
+  - {fileID: 21300000, guid: db25c287b5268804ea9aa740fb9f988e, type: 3}
+  - {fileID: 21300000, guid: 25b76518a647f56409e4686d6a38d1be, type: 3}
+  - {fileID: 21300000, guid: bed9d668d4f1c9f44a882f09a3e1d9cb, type: 3}
+  - {fileID: 21300000, guid: 46be157860476d84fa153b4b5f8c239d, type: 3}
+  - {fileID: 21300000, guid: 09c3167923530af45a3c5e50bb7024ce, type: 3}
+  - {fileID: 21300000, guid: 3e667cb90fe0ed34aa4fc34dccfc75c9, type: 3}
+  - {fileID: 21300000, guid: c93cf4f991b9f4a41a157cabea84bf2f, type: 3}
+  - {fileID: 21300000, guid: 05e227f9f8a7dc7439f554363f304a4f, type: 3}
+  - {fileID: 21300000, guid: 0731b22ac10b77a408c9a3c389a1bcda, type: 3}
+  - {fileID: 21300000, guid: 22e37fca159336c4abd1a7322b4d7a6e, type: 3}
+  - {fileID: 21300000, guid: c08ce72b0237ae24da0f71eec205c5a1, type: 3}
+  - {fileID: 21300000, guid: 66f1857ba610a2345b320f31c7f590ff, type: 3}
+  - {fileID: 21300000, guid: a8d493bbc92fd494abc54bcea345aa8e, type: 3}
+  - {fileID: 21300000, guid: 72a4fe5cc5937334e968212151e8f4a7, type: 3}
+  - {fileID: 21300000, guid: 6fa31efcfca141748adca45e072f5ac5, type: 3}
+  - {fileID: 21300000, guid: dfe8d71dc151c3641a2e36a5cb07f54f, type: 3}
+  - {fileID: 21300000, guid: c273007d007c08240b92e5afb342ea50, type: 3}
+  - {fileID: 21300000, guid: e02f64dd3c3ae9f488053c5ee9398a2d, type: 3}
+  - {fileID: 21300000, guid: f9e97cddcf94e2d44aeede0b3c3e9af4, type: 3}
+  - {fileID: 21300000, guid: 8bc72d1e7e908d84fbce66e887f1a397, type: 3}
+  - {fileID: 21300000, guid: a641d83ef008d3548802381fae33db77, type: 3}
+  - {fileID: 21300000, guid: dde67d3ebd8410d4e8185e1be2c07fdb, type: 3}
+  - {fileID: 21300000, guid: 8e2231be9a55f2e4ab20807ea0ccf804, type: 3}
+  - {fileID: 21300000, guid: aa3e75ce2d2b16240a352e6e950987d2, type: 3}
+  - {fileID: 21300000, guid: 92b5b83fc179cda4bbdc2f4e30419a78, type: 3}
+  - {fileID: 21300000, guid: 4290c65f195c2c24581ea43d3e4d58e9, type: 3}
+  - {fileID: 21300000, guid: f673d97f81f054e4d96027f3231acb4c, type: 3}
+  - {fileID: 21300000, guid: 9cdfbb7ff7f999b4a9ed8da8c47b3644, type: 3}
+  - {fileID: 21300000, guid: 8c27b0ff51bd47e4a828ef12250ab1ae, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Gladius_A_Destroy_2
+  - Spatha_B
+  - Spatha_N
+  - Gladius_B_Destroy_1
+  - Centurion_A
+  - Scutum_N_Destroy_1
+  - Centurion_A_Destroy_2
+  - Scutum_B_Destroy_2
+  - Pilum_B_Destroy_2
+  - Spatha_N_Destroy_3
+  - Pilum_A
+  - Fighter_Shiv
+  - Spatha_B_Destroy_1
+  - Centurion_B_Destroy_2
+  - Spatha_A
+  - Spatha_A_Destroy_1
+  - Gladius_A_Destroy_1
+  - Terran_Shield
+  - Scutum_B_Destroy_1
+  - Spatha_N_Destroy_1
+  - Gladius_B_Destroy_2
+  - Scutum_A
+  - Pilum_A_Destroy_2
+  - Pilum_A_Destroy_1
+  - Centurion_B
+  - Centurion_B_Destroy_1
+  - Centurion_N_Destroy_2
+  - Centurion_N_Destroy_1
+  - Pilum_N_Destroy_1
+  - Terran Ballista
+  - Spatha_A_Destroy_2
+  - Gladius_N_Destroy_1
+  - Fighter_JumpingShiv
+  - Centurion_A_Destroy_1
+  - Pilum_B
+  - Gladuis_A
+  - Scutum_A_Destroy_1
+  - Centurion_N
+  - Scutum_B
+  - Pilum_N_Destroy_2
+  - Spatha_B_Destroy_2
+  - Gladius_N_Destroy_2
+  - Scutum_N
+  - Scutum_N_Destroy_2
+  - Spatha_N_Destroy_2
+  - Fighter_Dagger
+  - Gladuis_B
+  - Gladuis_N
+  - Pilum_N
+  - Scutum_A_Destroy_2
+  - Pilum_B_Destroy_1
+  m_Tag: Race_Terran
+  m_IsVariant: 0

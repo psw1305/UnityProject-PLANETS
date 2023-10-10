@@ -1,0 +1,7 @@
+Captain_Type,Captain_Race,Captain_Name,Skill_Type,Skill_Name,Skill_Info
+Captain_Battle1,Terran,알렉스,Captain_Skill_Battle1,핵미사일,선택 지점의 n1 피해를 주는 핵 미사일을 발사한다.
+Captain_Battle2,Terran,콜린,Captain_Skill_Battle2,속사,n2초 동안 모든 함선의 공격 속도가 n1% 증가한다.
+Captain_Tech1,Terran,클레어,Captain_Skill_Tech1,집중방어,n2초 동안 모든 함선의 피해를 n1% 감소시킨다.
+Captain_Tech2,Terran,제이크,Captain_Skill_Tech2,효율적인 공격,모든 함선의 스킬 효과가 n1% 상승한다.
+Captain_Supply1,Terran,윌리엄,Captain_Skill_Supply1,승무원 보급,모든 함선의 승무원을 n1% 만큼 즉시 충원한다.
+Captain_Supply2,Terran,핀,Captain_Skill_Supply2,정비,n2초간 모든 함선의 갑판을 n1% 만큼 수리한다.

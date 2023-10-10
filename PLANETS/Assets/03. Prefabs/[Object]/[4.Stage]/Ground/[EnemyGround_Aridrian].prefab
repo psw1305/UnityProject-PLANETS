@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1347917698733106
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4036653135757306}
+  - component: {fileID: 114662350408039032}
+  m_Layer: 0
+  m_Name: '[EnemyGround_Aridrian]'
+  m_TagString: EnemyPosition
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4036653135757306
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1347917698733106}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114662350408039032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1347917698733106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cdbe324f0a800a41a2100e0016dfcc8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullets:
+  - {fileID: 4739279912668650, guid: 63d31a6a0e46caa4b85b12f0d9159664, type: 3}
+  - {fileID: 491408, guid: 524dd9846a0416a4d98ea831ddd7bc3b, type: 3}
+  - {fileID: 4672067541447542, guid: cf44d191573b02d4aadc6da3e00825a1, type: 3}
+  - {fileID: 6703821520492437658, guid: beee1fc2470f2ea47b6fe2f41396ab9e, type: 3}
+  - {fileID: 4793919284166836, guid: a947f6d5e32af1445b9f51088382b83c, type: 3}
+  lengths: c8000000c8000000c8000000c8000000c8000000

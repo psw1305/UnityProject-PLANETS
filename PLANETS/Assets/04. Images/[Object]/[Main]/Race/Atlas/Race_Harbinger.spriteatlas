@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Race_Harbinger
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1431c3995495c2c4987aeedbcf048433, type: 3}
+    totalSpriteSurfaceArea: 17233685
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: af258b108b4614b478395d3b720812f5, type: 3}
+  - {fileID: 21300000, guid: 0f873a305ecd717408d88afa2d3cc50f, type: 3}
+  - {fileID: 21300000, guid: 323be9605e0c8144da299b4cefaa293d, type: 3}
+  - {fileID: 21300000, guid: cd4cc0a0387dc7a46bb4a000d9ce1652, type: 3}
+  - {fileID: 21300000, guid: 3d3fcba003b15114c84b3a18e8d0750e, type: 3}
+  - {fileID: 21300000, guid: 5a41884137f17cb41bc0c6a545e71d3e, type: 3}
+  - {fileID: 21300000, guid: 5c95b35187f878b489749d4a6b349242, type: 3}
+  - {fileID: 21300000, guid: 08601991458abc347b8f97908b065976, type: 3}
+  - {fileID: 21300000, guid: 1b22e8a189181c8469cb663e69ee0f50, type: 3}
+  - {fileID: 21300000, guid: 4a6b80b1839e7db4eaea8aeeb02035c1, type: 3}
+  - {fileID: 21300000, guid: 4b130fc1aca3fb841a2914a301cbc217, type: 3}
+  - {fileID: 21300000, guid: 5a49d3123c86d014eb72629e4af7ed44, type: 3}
+  - {fileID: 21300000, guid: 5d2a732253174b842b625910baa29d62, type: 3}
+  - {fileID: 21300000, guid: 0e8077925adc3e54eb672341bbae3313, type: 3}
+  - {fileID: 21300000, guid: 9bea78a21ba56d548b3314c223c022bd, type: 3}
+  - {fileID: 21300000, guid: 6f89b5b23da5fb249932c6a3c3521c64, type: 3}
+  - {fileID: 21300000, guid: ed7c0ef2213244643b0fe58d9b1ba3a1, type: 3}
+  - {fileID: 21300000, guid: 8faa892394409864fbe5a4fe91a970b5, type: 3}
+  - {fileID: 21300000, guid: 4bb74f236f6674042b4fef067b2d9e30, type: 3}
+  - {fileID: 21300000, guid: 18e2e0e38862c174c8c09b238d87c85b, type: 3}
+  - {fileID: 21300000, guid: ccf8b8e3094f6bc49ba953fdeb3c9a46, type: 3}
+  - {fileID: 21300000, guid: 7f5c96f3edfce394990741da408abcaf, type: 3}
+  - {fileID: 21300000, guid: 32bd59f356bbaf94e89fe7b8989d121e, type: 3}
+  - {fileID: 21300000, guid: 24c5031531425c94aa4d755645fdebeb, type: 3}
+  - {fileID: 21300000, guid: e946081532e67d049bdaccb80b07a42b, type: 3}
+  - {fileID: 21300000, guid: d25d9d1571fb5fc409a0d8764a921022, type: 3}
+  - {fileID: 21300000, guid: 753519257ae39b44b9c2dd595b04796f, type: 3}
+  - {fileID: 21300000, guid: 4ac35c95cb8bd9b43828105ba86b5566, type: 3}
+  - {fileID: 21300000, guid: cc205fb55ff06b34f9ce288e2786ab7d, type: 3}
+  - {fileID: 21300000, guid: 96f94ed511cdb4843960ded48e847f1e, type: 3}
+  - {fileID: 21300000, guid: cd3e5396cc6227f49b010f2ae1a3a139, type: 3}
+  - {fileID: 21300000, guid: 07fbddd60f379264d8ee275f745f2530, type: 3}
+  - {fileID: 21300000, guid: 752b317748393194da3adc533a8e286c, type: 3}
+  - {fileID: 21300000, guid: 54293a77cafbacc4faa7e328b9eb55d4, type: 3}
+  - {fileID: 21300000, guid: 967958e7a9812084bac740f5b2153acc, type: 3}
+  - {fileID: 21300000, guid: f2f421f7aee7ed247a1250a1748e904f, type: 3}
+  - {fileID: 21300000, guid: ba8666a854ea13042a000331a4fb9f09, type: 3}
+  - {fileID: 21300000, guid: b9daa979abfef394ba9795dc4257dff0, type: 3}
+  - {fileID: 21300000, guid: cb17509982e82c74fa72f0b11c2ad211, type: 3}
+  - {fileID: 21300000, guid: 63a8c7b9d85100245ae098f9fe7860ba, type: 3}
+  - {fileID: 21300000, guid: 4e66094aeb6f77f47bd23048503c8360, type: 3}
+  - {fileID: 21300000, guid: c6ce737a09dce0d449e28cc60eb3fd8c, type: 3}
+  - {fileID: 21300000, guid: 0ae8bfba2926e324f812ebaa7b62471c, type: 3}
+  - {fileID: 21300000, guid: f316ceca3a5e988468538f4b992043af, type: 3}
+  - {fileID: 21300000, guid: ece65a4b0bedb5847b09932f2f7d2fb8, type: 3}
+  - {fileID: 21300000, guid: 941f8a9b97c1f9447b770bb5437f6dec, type: 3}
+  - {fileID: 21300000, guid: 6e35f84ce085ef74c89eb5098b89ea68, type: 3}
+  - {fileID: 21300000, guid: f4b09b7cd24f72f4e95d7c3039839314, type: 3}
+  - {fileID: 21300000, guid: 76e651ecff6f32f44b27933253ab89a4, type: 3}
+  - {fileID: 21300000, guid: 1c4374ecfaad06e488aa4da1c35e8745, type: 3}
+  - {fileID: 21300000, guid: 3ebc84fc51be9bf43ab4dd7d48978669, type: 3}
+  - {fileID: 21300000, guid: dcee2b3db87929041b79e4fa4d99ad41, type: 3}
+  - {fileID: 21300000, guid: 2c3acd0e44646bc489d364b4f830ab8e, type: 3}
+  - {fileID: 21300000, guid: 9d18d05e6094c8c44aa17fb1e9d422fb, type: 3}
+  - {fileID: 21300000, guid: fc10139e1779e4145b69a505647fee91, type: 3}
+  - {fileID: 21300000, guid: e0179ceea101e484ca8506c82088a739, type: 3}
+  - {fileID: 21300000, guid: f93a430fc4965e346bf15e60e36bc1fd, type: 3}
+  - {fileID: 21300000, guid: 60d94bbfe767c48498ca8b01c7ce28d6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Torrent_B_Destroy_2
+  - Spark_N
+  - Spark_N_Destroy_2
+  - Conductor_A
+  - Spark_N_Destroy_1
+  - Lightning_B_Destroy_2
+  - Storm_B_Destroy_1
+  - Spark_B_Destroy_1
+  - Storm_B_Destroy_2
+  - Storm_A_Destroy_2
+  - Torrent_B_Destroy_3
+  - Spark_A_Destroy_2
+  - Torrent_N_Destroy_2
+  - Conductor_B_Destroy_1
+  - Torrent_N_Destroy_1
+  - Torrent_N
+  - Conductor_B_Destroy_2
+  - Storm_N_Destroy_3
+  - Lightning_A_Destroy_2
+  - Lightning_B
+  - Harbinger_Shield
+  - Storm_A_Destroy_3
+  - Conductor_N_Destroy_1
+  - Fighter_ShockDrone
+  - Fighter_MistDrone
+  - Storm_N
+  - Lightning_N
+  - Lightning_B_Destroy_3
+  - Torrent_B_Destroy_1
+  - Lightning_N_Destroy_2
+  - Lightning_A_Destroy_3
+  - Storm_B
+  - Torrent_A_Destroy_3
+  - Lightning_N_Destroy_3
+  - Torrent_A_Destroy_1
+  - Lightning_A
+  - Torrent_A
+  - Storm_N_Destroy_2
+  - Conductor_A_Destroy_1
+  - Spark_A_Destroy_1
+  - Fighter_ShieldDrone
+  - Spark_B
+  - Storm_B_Destroy_3
+  - Conductor_N_Destroy_2
+  - Storm_A
+  - Lightning_N_Destroy_1
+  - Conductor_B
+  - Storm_A_Destroy_1
+  - Conductor_N
+  - Lightning_B_Destroy_1
+  - Storm_N_Destroy_1
+  - Torrent_A_Destroy_2
+  - Lightning_A_Destroy_1
+  - Spark_B_Destroy_2
+  - Spark_A
+  - Conductor_A_Destroy_2
+  - Torrent_B
+  - Harbinger_Storm_Shield
+  m_Tag: Race_Harbinger
+  m_IsVariant: 0

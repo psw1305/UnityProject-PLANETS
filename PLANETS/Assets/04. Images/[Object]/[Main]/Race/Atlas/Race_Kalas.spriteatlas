@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Race_Kalas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b19cbe54cbf31f14a9222304c268b93c, type: 3}
+    totalSpriteSurfaceArea: 25440564
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7236781064f6bec4b926139072aafcf6, type: 3}
+  - {fileID: 21300000, guid: 94e6b660bb354a540944ff2c67fff3d5, type: 3}
+  - {fileID: 21300000, guid: 757c7890595389a4eba1bf3bb7da31d2, type: 3}
+  - {fileID: 21300000, guid: b8da06b03597dc944996e49b49c32b0d, type: 3}
+  - {fileID: 21300000, guid: 9d3ee3c0e7127414f92f24465af06fb1, type: 3}
+  - {fileID: 21300000, guid: fb504b11f6a72ef47a1f58037c1c0e17, type: 3}
+  - {fileID: 21300000, guid: a5b7dd4139ce5af4f94d6cf5f4038b1f, type: 3}
+  - {fileID: 21300000, guid: d0c9e051a3aafae4ea1fcfe9422e7f32, type: 3}
+  - {fileID: 21300000, guid: d741de51266ff3148af2064d9911f815, type: 3}
+  - {fileID: 21300000, guid: bb436c81a974f18429c3815244860304, type: 3}
+  - {fileID: 21300000, guid: c7c0dd817e5007c4d8b1a447144da0b3, type: 3}
+  - {fileID: 21300000, guid: 1a542e81e0a3bf941817479d315727fb, type: 3}
+  - {fileID: 21300000, guid: 27665b917de92a44c8f641ccd06b1c21, type: 3}
+  - {fileID: 21300000, guid: 06fd55024bcb74e44b548b2ea782af2a, type: 3}
+  - {fileID: 21300000, guid: cb41222280591ed47abca49b43ccd771, type: 3}
+  - {fileID: 21300000, guid: c70ab1324cd1e5646b57eedcf104d7d7, type: 3}
+  - {fileID: 21300000, guid: 35ca153206d2da84f9f3c1e85180ad5d, type: 3}
+  - {fileID: 21300000, guid: 1db7a93269701bf478f911c3169ae75f, type: 3}
+  - {fileID: 21300000, guid: 74d22b7207fff3543a73960fb26a7d32, type: 3}
+  - {fileID: 21300000, guid: 16823182771305544908bec234ee02c8, type: 3}
+  - {fileID: 21300000, guid: a09ac6b2f46fa524c8a714748ece1ba0, type: 3}
+  - {fileID: 21300000, guid: 8c59bcb256b7aff4ca884b2c0f4219a0, type: 3}
+  - {fileID: 21300000, guid: 712316c21b87c814682a8ab8107bdde5, type: 3}
+  - {fileID: 21300000, guid: bce8ecc28b44e1d41a7b74b737b4453c, type: 3}
+  - {fileID: 21300000, guid: acd51223f88a833438e752dd6a88c727, type: 3}
+  - {fileID: 21300000, guid: da464923641697240a324e81c7d4034f, type: 3}
+  - {fileID: 21300000, guid: 572c0233bf98ee948b7b53cf5cc85607, type: 3}
+  - {fileID: 21300000, guid: d9981b43cc078b1488eb74749fd61a5a, type: 3}
+  - {fileID: 21300000, guid: 5711e45329027c14e8ebaaa27db54596, type: 3}
+  - {fileID: 21300000, guid: 2174b9535a913c249a7721b659657710, type: 3}
+  - {fileID: 21300000, guid: 7b7b7e53a8e857843a639523d7afdc56, type: 3}
+  - {fileID: 21300000, guid: 35f4b3146bb97b941a381beff5f9a1d6, type: 3}
+  - {fileID: 21300000, guid: 2179d4342570b5347a6a479db355c41c, type: 3}
+  - {fileID: 21300000, guid: 82b6a4f4e5b591e468931f3e56246a25, type: 3}
+  - {fileID: 21300000, guid: 233fa005c8233844fb676ddd6bc70f84, type: 3}
+  - {fileID: 21300000, guid: c70ed1564b7fdea47a3455fb75738c60, type: 3}
+  - {fileID: 21300000, guid: e389bd66e7602794f98b198f25554049, type: 3}
+  - {fileID: 21300000, guid: 4719d776b3c68fd4dac4e7d129fbf1ef, type: 3}
+  - {fileID: 21300000, guid: 04d69986eeb9e344dbd9174375785942, type: 3}
+  - {fileID: 21300000, guid: 756ad9d69e63e7e4eb08d70a1a850622, type: 3}
+  - {fileID: 21300000, guid: b9bfebd683a421e4e87bf27f2bb0ba49, type: 3}
+  - {fileID: 21300000, guid: 26d4aee6a6b51c34ea6a3660363df429, type: 3}
+  - {fileID: 21300000, guid: 1a76e6f6161bad246972ea39531a600b, type: 3}
+  - {fileID: 21300000, guid: a5f23bf66b491e8499e588c91d381686, type: 3}
+  - {fileID: 21300000, guid: 9dc20817f49d15b40a498c52767233d1, type: 3}
+  - {fileID: 21300000, guid: ae9755a78fb8ec04383aff7b68ca0609, type: 3}
+  - {fileID: 21300000, guid: f41b09b7cf37d1c489e936e4cef96676, type: 3}
+  - {fileID: 21300000, guid: 921b8cd7591278f40bc17b80b6d05840, type: 3}
+  - {fileID: 21300000, guid: 26a0f06888f133e43971ee461be137c5, type: 3}
+  - {fileID: 21300000, guid: 92e16f68fb3251342ab4c8a8cdd7f370, type: 3}
+  - {fileID: 21300000, guid: f6190699dc9d1c84eb4712fcf58e7666, type: 3}
+  - {fileID: 21300000, guid: 78e844d9529d7cd4aa664ae18b762b0e, type: 3}
+  - {fileID: 21300000, guid: fa55e52a33bcf0b48b271ae431812151, type: 3}
+  - {fileID: 21300000, guid: f65ac75a476340849a4e9b885f93d022, type: 3}
+  - {fileID: 21300000, guid: 892fe76aac2bd0343a148bed696eb6cf, type: 3}
+  - {fileID: 21300000, guid: fa972f7a195a152498fd55d73f6d58c9, type: 3}
+  - {fileID: 21300000, guid: 398840bab28037b4fb708666bceee65d, type: 3}
+  - {fileID: 21300000, guid: 959dc66b33647f24d98e48334dd95d4b, type: 3}
+  - {fileID: 21300000, guid: 4227682c852e4c342bce9527efaa04bc, type: 3}
+  - {fileID: 21300000, guid: dfbaef5c868b09d4eb4d46aec4310a42, type: 3}
+  - {fileID: 21300000, guid: 9833346cafb2e24429cdae6d5999465d, type: 3}
+  - {fileID: 21300000, guid: 6993cf9c745780d4d85c88ca0cb33367, type: 3}
+  - {fileID: 21300000, guid: 628c92fc205f06f4e8199689ceb3f632, type: 3}
+  - {fileID: 21300000, guid: 1d71756dda73a85489c7ce3572ac42a0, type: 3}
+  - {fileID: 21300000, guid: 314bbb8d2b84afb4da6e8ff9be134280, type: 3}
+  - {fileID: 21300000, guid: fa787fbdda288e14293201f2020a77d4, type: 3}
+  - {fileID: 21300000, guid: e00856fd09f7d8b4b985794a4fe56b47, type: 3}
+  - {fileID: 21300000, guid: 0a62515e4b413104b832ecd9e453d210, type: 3}
+  - {fileID: 21300000, guid: 6352fe8e552598f429c779eed2a93b4b, type: 3}
+  - {fileID: 21300000, guid: 76e651bef8d26784896c90f9e176a991, type: 3}
+  - {fileID: 21300000, guid: 293100ee03cf61941aa81660f9dd6709, type: 3}
+  - {fileID: 21300000, guid: 4a27390f77798a144956e599e1202352, type: 3}
+  - {fileID: 21300000, guid: e47b773f99badf545b193925064fab61, type: 3}
+  - {fileID: 21300000, guid: 9aac5c3f9e479fb45b20d8c6ba534a8b, type: 3}
+  - {fileID: 21300000, guid: f76e885fccb74804ba5c7cb6fc7341d9, type: 3}
+  - {fileID: 21300000, guid: aab7886f6ff01464b97e94d56d067317, type: 3}
+  - {fileID: 21300000, guid: 78e6367f58d9f4a4691d41570f52e1a3, type: 3}
+  - {fileID: 21300000, guid: bb99e68fe4a81f14f960be7914d54e76, type: 3}
+  - {fileID: 21300000, guid: 3ec4df8ff1fbcf44ca37927da606ce46, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Argos_A
+  - Titan_B_Destroy_1
+  - Kalas_Destroyer_B_Canister
+  - Gaia Destroy 5
+  - Argos_A_Destroy_2
+  - Cyclops_B_Destroy_1
+  - Hekaton_N_Destroy_3
+  - Hekaton_B
+  - Hekaton_B_Destroy_1
+  - Kalas_Shield
+  - Argos_N
+  - Titan_B_Destroy_2
+  - Hekaton_B_Destroy_2
+  - Colossus_B_Destroy_2
+  - Gaia Destroy 2
+  - Hekaton_A_Destroy_2
+  - Colossus_N
+  - Argos_N_Destroy_1
+  - Titan_A_Destroy_2
+  - Kalas_Shield Block
+  - Colossus_A
+  - Titan_N_Destroy_1
+  - Titan_A_Destroy_1
+  - Gaia Crack 2
+  - Cyclops_B_Destroy_2
+  - kalas-halo-square2
+  - Hekaton_A
+  - kalas-halo-hexagon
+  - Cyclops_A
+  - Fighter_Vulcan
+  - Argos_B_Destroy_2
+  - Argos_A_Destroy_3
+  - Gaia Crack 5
+  - Cyclops_A_Destroy_1
+  - Hekaton_N_Destroy_2
+  - kalas-halo-square
+  - Fighter_Royal
+  - Gaia Destroy 4
+  - Argos_B_Destroy_3
+  - Kalas_Symbol
+  - Gaia Destroy 1
+  - Kalas_Halo_Circle
+  - Argos_N_Destroy_2
+  - Colossus_A_Destroy_2
+  - Colossus_B_Destroy_1
+  - Titan_N_Destroy_2
+  - Argos_B
+  - Hekaton_N_Destroy_1
+  - Hekaton_B_Destroy_3
+  - Titan_B
+  - Gaia Destroy 3
+  - Titan_A
+  - Colossus_N_Destroy_1
+  - Cyclops_A_Destroy_2
+  - Titan_N
+  - Kalas_Destroyer_A_Riot
+  - Argos_A_Destroy_1
+  - Argos_B_Destroy_1
+  - Gaia Destroy 6
+  - Gaia Crack 1
+  - Kalas_Cruiser_B_SiegeMode
+  - Colossus_B
+  - Cyclops_N
+  - Colossus_N_Destroy_2
+  - Hekaton_A_Destroy_3
+  - Gaia Crack 4
+  - Gaia
+  - Colossus_A_Destroy_1
+  - Cyclops_N_Destroy_2
+  - Cyclops_N_Destroy_1
+  - Gaia Crack 3
+  - Hekaton_N
+  - Cyclops_B
+  - Hekaton_A_Destroy_1
+  - Kalas_Shield_Reinforced
+  - Fighter_Milita
+  - Fighter_RedWine
+  - mini-beam
+  - Kalas-shieldblock
+  m_Tag: Race_Kalas
+  m_IsVariant: 0

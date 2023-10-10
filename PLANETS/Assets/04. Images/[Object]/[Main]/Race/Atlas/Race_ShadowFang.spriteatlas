@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Race_ShadowFang
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 31a636647556a4d4f98ce46116ebad26, type: 3}
+    totalSpriteSurfaceArea: 17130231
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d3187430f9ceea5458c58c097aa4ce10, type: 3}
+  - {fileID: 21300000, guid: 8140fc50f702d2d46aa11a06231320fe, type: 3}
+  - {fileID: 21300000, guid: f70ba360c7631e14b80672080820fa96, type: 3}
+  - {fileID: 21300000, guid: 52fee4c0507179141b76c488422a3aba, type: 3}
+  - {fileID: 21300000, guid: fea1e9c020ccfda4c80b6a8359a09f26, type: 3}
+  - {fileID: 21300000, guid: 6a37d671d1ba157448e80291c68695d8, type: 3}
+  - {fileID: 21300000, guid: f65711e152cea9747b75bc7760e76b19, type: 3}
+  - {fileID: 21300000, guid: 773c3602dedde884a82221e8889da241, type: 3}
+  - {fileID: 21300000, guid: ec826a02e92a3004aa632becbb3251e0, type: 3}
+  - {fileID: 21300000, guid: 36177f02b15fd704699b055048a68a51, type: 3}
+  - {fileID: 21300000, guid: ea6bc792c6afff044adfb54d553dcf3b, type: 3}
+  - {fileID: 21300000, guid: fa1084b25869732498a926676fa6f3f3, type: 3}
+  - {fileID: 21300000, guid: fa3e9fc27dbba704eb9c181c5b5a5bf6, type: 3}
+  - {fileID: 21300000, guid: b3889d03ef4541040924d52218ec2f3b, type: 3}
+  - {fileID: 21300000, guid: a747f2535fea73849bf8ec6f997ef034, type: 3}
+  - {fileID: 21300000, guid: 069df1a312414994abe2e5451792c946, type: 3}
+  - {fileID: 21300000, guid: 020516a34dc1ca642aa4c57542d527a9, type: 3}
+  - {fileID: 21300000, guid: 3c62e3d306d16764dbd91cb41efd39a4, type: 3}
+  - {fileID: 21300000, guid: 0f3f05e38cc95644e818ae6e3fa78a34, type: 3}
+  - {fileID: 21300000, guid: 9d5939a4be70bf14b8b93564e69a1cce, type: 3}
+  - {fileID: 21300000, guid: 67c64805bcd7f684d99b9a292c4dcc00, type: 3}
+  - {fileID: 21300000, guid: 65175895f34dc134d95c1f211b8f3897, type: 3}
+  - {fileID: 21300000, guid: 2bf85ba5986f78047840c6dbc8d897e8, type: 3}
+  - {fileID: 21300000, guid: ce901046815c1d24c96024f051160cf8, type: 3}
+  - {fileID: 21300000, guid: e2092c468c6b48c45b0cebee5b64f88a, type: 3}
+  - {fileID: 21300000, guid: 7365beb6e6f762540ad6e64264f62acb, type: 3}
+  - {fileID: 21300000, guid: 640215c6b25e29940abbab50621c0b8f, type: 3}
+  - {fileID: 21300000, guid: 6c6c3a3738b2c8942a5d82901dc136db, type: 3}
+  - {fileID: 21300000, guid: 2abf00e78f334e7488a9c4ac307b5816, type: 3}
+  - {fileID: 21300000, guid: 59b92638de392104fa84636668a1b857, type: 3}
+  - {fileID: 21300000, guid: 9c9ad958c0081bf4190ed861f4451220, type: 3}
+  - {fileID: 21300000, guid: 25ef4888364e7a54fab2648b5bbefe73, type: 3}
+  - {fileID: 21300000, guid: 5a95b7a83eed71f4bbb7f5b1e5eb1752, type: 3}
+  - {fileID: 21300000, guid: 6d320aa8bad47f440ac78bfa03b80a22, type: 3}
+  - {fileID: 21300000, guid: 36d9daf80715ecc4d874cec8f8818252, type: 3}
+  - {fileID: 21300000, guid: 6929d529578a6ce46ac562cb8d15524c, type: 3}
+  - {fileID: 21300000, guid: 463f50598e1ca1441a92f798e202dc75, type: 3}
+  - {fileID: 21300000, guid: 9599cea94199869409f094f619973a54, type: 3}
+  - {fileID: 21300000, guid: 78bd1bc96d4b9974cbe764762ae3ef7a, type: 3}
+  - {fileID: 21300000, guid: c26badf910e5f0a46afa14a50715656a, type: 3}
+  - {fileID: 21300000, guid: c2a23d1a31a5f7a4ba264dead4d5406e, type: 3}
+  - {fileID: 21300000, guid: 83fd05aa467b58f4787a3a372eb1ad3a, type: 3}
+  - {fileID: 21300000, guid: 923c6c1b21fe8e84697f795052f0d8a2, type: 3}
+  - {fileID: 21300000, guid: 0afee35b8f9d1684fa52f3bad002e0e0, type: 3}
+  - {fileID: 21300000, guid: b8d6434c938730948909a79175d81e84, type: 3}
+  - {fileID: 21300000, guid: 51a7bc8cad9d2a3499caeea75de76494, type: 3}
+  - {fileID: 21300000, guid: bfd7f71d028aac14289e4f146102f6f4, type: 3}
+  - {fileID: 21300000, guid: eb60ac3d001ea5545bdd384f7bbbad1a, type: 3}
+  - {fileID: 21300000, guid: 67d9f6dd48125144881c8153008d4015, type: 3}
+  - {fileID: 21300000, guid: f74f5add8ec1b3440b5ebb207a342c3f, type: 3}
+  - {fileID: 21300000, guid: 9444f34eb79b7044aae8f3b241be049b, type: 3}
+  - {fileID: 21300000, guid: dc685e7e0c69f45438f75de822f86d6e, type: 3}
+  - {fileID: 21300000, guid: 74b6c0ce28ecea14fb61958bb2319c51, type: 3}
+  - {fileID: 21300000, guid: 1b10933f3bd46cf438492103edfd93b0, type: 3}
+  - {fileID: 21300000, guid: 50bb579f745569148a3c483cc65972be, type: 3}
+  - {fileID: 21300000, guid: 73222f9f8af64da44b5a08130ec7294d, type: 3}
+  - {fileID: 21300000, guid: ca95a8cfada6e814b86e80a1727c969d, type: 3}
+  - {fileID: 21300000, guid: 5d67aadf303e0e94bad13cd4952b62c5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Teeth_B_Destroy_2
+  - Wolfpack_A
+  - Wolfpack_A_Destroy_1
+  - Claw_B_Destroy_2
+  - Fenrir_A_Destroy_2
+  - Wolfpack_B_Destroy_2
+  - Claw_B_Destroy_3
+  - Wolfpack_B
+  - Hound_N_Destroy_2
+  - Wolfpack_B_Destroy_1
+  - Hound_A_Destroy_2
+  - Fenrir_N
+  - Fenrir_A
+  - Fighter_Raven
+  - Claw_N_Destroy_2
+  - Hound_B
+  - Fighter_Wolves
+  - Wolfpack_N_Destroy_2
+  - Fenrir_A_Destroy_3
+  - Fenrir_N_Destroy_2
+  - Fenrir_N_Destroy_1
+  - Fenrir_B_Destroy_3
+  - Teeth_N_Destroy_1
+  - Fighter_IntelligentBomb
+  - Hound_N_Destroy_1
+  - ShadowFang_Sticky
+  - Teeth_N
+  - Wolfpack_A_Destroy_2
+  - Teeth_A_Destroy_2
+  - Fenrir_N_Destroy_3
+  - Teeth_N_Destroy_2
+  - Teeth_A_Destroy_1
+  - Claw_A_Destroy_1
+  - Hound_B_Destroy_2
+  - Claw_N
+  - Teeth_B
+  - ShadowFang_Loki Mine
+  - Claw_A_Destroy_2
+  - Claw_N_Destroy_1
+  - Claw_A
+  - Hound_A_Destroy_1
+  - Hound_A
+  - Claw_B
+  - Hound_N
+  - Hound_B_Destroy_1
+  - Teeth_A
+  - Fenrir_B_Destroy_2
+  - Claw_A_Destroy_3
+  - Wolfpack_N_Destroy_1
+  - Fenrir_B
+  - Wolfpack_N
+  - Wolfpack_B_Destroy_3
+  - Wolfpack_A_Destroy_3
+  - Fenrir_B_Destroy_1
+  - Fighter_Einherjar
+  - Claw_B_Destroy_1
+  - Fenrir_A_Destroy_1
+  - Teeth_B_Destroy_1
+  m_Tag: Race_ShadowFang
+  m_IsVariant: 0

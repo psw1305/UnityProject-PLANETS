@@ -1,0 +1,201 @@
+Name,Resource_Credit,Resource_Core,Resource_DarkMatter,Skill_ID,Skill_Lv,Information
+Terran_Destroyer_1N,0,0,0,N,I,테란 기본 구축함 연구
+Terran_Destroyer_2N,3000,20,12,N,II,모선에서 포격지원을 요청하여 범위 피해 미사일을 발사한다.
+Terran_Destroyer_3A,4000,30,18,A,I,포격 지원의 피해 범위가 25% 증가한다.
+Terran_Destroyer_4A,5000,40,24,A,II,포격 지원의 피해 범위가 50% 증가한다.
+Terran_Destroyer_5A,6000,50,30,A,III,포격 지원의 피해 범위가 75% 증가한다.
+Terran_Destroyer_3B,4000,30,18,B,I,탄환을 변환하여 다음 기본 공격에 30% 추가 피해를 준다.
+Terran_Destroyer_4B,5000,40,24,B,II,탄환을 변환하여 다음 기본 공격에 40% 추가 피해를 준다.
+Terran_Destroyer_5B,6000,50,30,B,III,탄환을 변환하여 다음 기본 공격에 50% 추가 피해를 준다.
+Terran_Auxiliary_1N,0,0,0,N,I,테란 기본 지원함 연구
+Terran_Auxiliary_2N,3000,20,12,N,II,주변 아군의 갑판을 1400 만큼 수리한다.
+Terran_Auxiliary_3A,4000,30,18,A,I,주변 아군의 갑판을 2400 만큼 수리한다.
+Terran_Auxiliary_4A,5000,40,24,A,II,주변 아군의 갑판을 3600 만큼 수리한다.
+Terran_Auxiliary_5A,6000,50,30,A,III,주변 아군의 갑판을 5000 만큼 수리한다.
+Terran_Auxiliary_3B,4000,30,18,B,I,하나의 함선만 수리하던 가능이 동시에 두 함선을 수리한다.
+Terran_Auxiliary_4B,5000,40,24,B,II,함선의 수리 속도가 50% 빨라진다.
+Terran_Auxiliary_5B,6000,50,30,B,III,함선의 수리 속도가 100% 빨라진다.
+Terran_Cruiser_1N,0,0,0,N,I,테란 기본 순양함 연구
+Terran_Cruiser_2N,4000,30,24,N,II,모든 적을 관통하며 2400만큼 피해를 주는 관통 미사일을 1발 발사한다.
+Terran_Cruiser_3A,5000,40,30,A,I,모든 적을 관통하며 3900만큼 피해를 주는 관통 미사일을 2발 발사한다.
+Terran_Cruiser_4A,6000,50,36,A,II,모든 적을 관통하며 5800만큼 피해를 주는 관통 미사일을 3발 발사한다.
+Terran_Cruiser_5A,7000,60,42,A,III,모든 적을 관통하며 8000만큼 피해를 주는 관통 미사일을 4발 발사한다.
+Terran_Cruiser_3B,5000,40,30,B,I,함선을 해킹하여 5초간 아군의 공격에 피해를 입게 만든다.
+Terran_Cruiser_4B,6000,50,36,B,II,함선을 해킹하여 7.5초간 아군의 공격에 피해를 입게 만든다.
+Terran_Cruiser_5B,7000,60,42,B,III,함선을 해킹하여 10초간 아군의 공격에 피해를 입게 만든다.
+Terran_Carrier_1N,0,0,0,N,I,테란 기본 항공모함 연구
+Terran_Carrier_2N,5000,40,30,N,II,공격기가 적의 중요 장비를 공격하여 5초간 함선의 기능을 정지시킨다.
+Terran_Carrier_3A,6000,50,40,A,I,공격기가 적의 중요 장비를 공격하여 6초간 함선의 기능을 정지시킨다.
+Terran_Carrier_4A,7000,60,50,A,II,공격기가 적의 중요 장비를 공격하여 7초간 함선의 기능을 정지시킨다.
+Terran_Carrier_5A,8000,70,60,A,III,공격기가 적의 중요 장비를 공격하여 8초간 함선의 기능을 정지시킨다.
+Terran_Carrier_3B,6000,50,40,B,I,함재기가 적함선 근처에 워프하여 바로 타격한다.
+Terran_Carrier_4B,7000,60,50,B,II,함재기의 공격력과 움직임이 25% 상승한다.
+Terran_Carrier_5B,8000,70,60,B,III,함재기의 공격력과 움직임이 50% 상승한다.
+Terran_Battleship_1N,0,0,0,N,I,테란 기본 전함 연구
+Terran_Battleship_2N,6000,50,30,N,II,주변의 함선들의 모든 능력이 5% 상승하는 강화장막을 생성한다.
+Terran_Battleship_3A,7000,60,40,A,I,주변의 함선들의 모든 능력이 10% 상승하는 강화장막을 생성한다.
+Terran_Battleship_4A,8000,70,50,A,II,주변의 함선들의 모든 능력이 15% 상승하는 강화장막을 생성한다.
+Terran_Battleship_5A,9000,80,60,A,III,주변의 함선들의 모든 능력이 20% 상승하는 강화장막을 생성한다.
+Terran_Battleship_3B,7000,60,40,B,I,적군 함선 스킬 쿨타임을 올려주는 디버프 영역을 생성한다.
+Terran_Battleship_4B,8000,70,50,B,II,적군 함선 스킬 쿨타임을 올려주는 디버프 영역을 생성한다.
+Terran_Battleship_5B,9000,80,60,B,III,적군 함선 스킬 쿨타임을 올려주는 디버프 영역을 생성한다.
+Kalas_Destroyer_1N,2000,10,6,N,I,칼라스 기본 구축함 연구
+Kalas_Destroyer_2N,3000,20,12,N,II,적 방어력 10%를 10초간 감소하는 범위형 유탄을 3발 발사한다
+Kalas_Destroyer_3A,4000,30,18,A,I,적 방어력 20%를 10초간 감소하는 범위형 유탄을 3발 발사한다
+Kalas_Destroyer_4A,5000,40,24,A,II,적 방어력 30%를 10초간 감소하는 범위형 유탄을 3발 발사한다
+Kalas_Destroyer_5A,6000,50,30,A,III,적 방어력 40%를 10초간 감소하는 범위형 유탄을 3발 발사한다
+Kalas_Destroyer_3B,4000,30,18,B,I,주변 함선의 방어력을 10초간 10% 상승시키는 유탄을 발사한다.
+Kalas_Destroyer_4B,5000,40,24,B,II,주변 함선의 방어력을 10초간 20% 상승시키는 유탄을 발사한다.
+Kalas_Destroyer_5B,6000,50,30,B,III,주변 함선의 방어력을 10초간 30% 상승시키는 유탄을 발사한다.
+Kalas_Auxiliary_1N,2000,10,6,N,I,칼라스 기본 지원함 연구
+Kalas_Auxiliary_2N,3000,20,12,N,II,10초 동안  지정대상에게 20회 피해를 무효화하는 특수 쉴드를 생성한다.
+Kalas_Auxiliary_3A,4000,30,18,A,I,10초 동안  지정대상에게 25회 피해를 무효화하는 특수 쉴드를 생성한다.
+Kalas_Auxiliary_4A,5000,40,24,A,II,10초 동안  지정대상에게 30회 피해를 무효화하는 특수 쉴드를 생성한다.
+Kalas_Auxiliary_5A,6000,50,30,A,III,10초 동안  지정대상에게 40회 피해를 무효화하는 특수 쉴드를 생성한다.
+Kalas_Auxiliary_3B,4000,30,18,B,I,치명상태의 아군 함선을 스테이시스 필드로 보호하며 체력과 승무원을 회복시킨다.
+Kalas_Auxiliary_4B,5000,40,24,B,II,치명상태의 아군 함선을 스테이시스 필드로 보호하며 체력과 승무원을 회복시킨다.
+Kalas_Auxiliary_5B,6000,50,30,B,III,치명상태의 아군 함선을 스테이시스 필드로 보호하며 체력과 승무원을 회복시킨다.
+Kalas_Cruiser_1N,3000,20,18,N,I,칼라스 기본 순양함 연구
+Kalas_Cruiser_2N,4000,30,24,N,II,6초간 적을 무력화 시키는 관통형 과출력 펄스 캐논을 발사한다.
+Kalas_Cruiser_3A,5000,40,30,A,I,관통형 과출력 펄스 캐논을 발사한다.
+Kalas_Cruiser_4A,6000,50,36,A,II,무력화 시간이 증가한다.
+Kalas_Cruiser_5A,7000,60,42,A,III,펄스 캐논의 범위가 증가한다.
+Kalas_Cruiser_3B,5000,40,30,B,I,포격모드로 변환되어 4회 무작위 적을 포격한다.
+Kalas_Cruiser_4B,6000,50,36,B,II,포격모드로 변환되어 5회 무작위 적을 포격한다.
+Kalas_Cruiser_5B,7000,60,42,B,III,포격모드로 변환되어 6회 무작위 적을 포격한다.
+Kalas_Carrier_1N,4000,30,20,N,I,칼라스 기본 항공모함 연구
+Kalas_Carrier_2N,5000,40,30,N,II,밀리샤 공격기능에 레드와인을 장착한다. 레드와인은 적 함선 쉴드를 억제시킨다
+Kalas_Carrier_3A,6000,50,40,A,I,레드와인 가스의 지속시간과 피해가 상승한다.
+Kalas_Carrier_4A,7000,60,50,A,II,레드와인 가스의 지속시간과 피해가 상승한다.
+Kalas_Carrier_5A,8000,70,60,A,III,레드와인 가스의 지속시간과 피해가 상승한다.
+Kalas_Carrier_3B,6000,50,40,B,I,25초마다 함재기의 성능이 올라간다. 최대 3번 30%씩 상승
+Kalas_Carrier_4B,7000,60,50,B,II,25초마다 함재기의 성능이 올라간다. 최대 3번 40%씩 상승
+Kalas_Carrier_5B,8000,70,60,B,III,25초마다 함재기의 성능이 올라간다. 최대 3번 50%씩 상승
+Kalas_Battleship_1N,5000,40,20,N,I,칼라스 기본 전함 연구
+Kalas_Battleship_2N,6000,50,30,N,II,함선의 방어력이 10초간 35% 증가한다.
+Kalas_Battleship_3A,7000,60,40,A,I,함선의 방어력이 12초간 40% 증가한다.
+Kalas_Battleship_4A,8000,70,50,A,II,함선의 방어력이 14초간 45% 증가한다.
+Kalas_Battleship_5A,9000,80,60,A,III,함선의 방어력이 16초간 50% 증가한다.
+Kalas_Battleship_3B,7000,60,40,B,I,주변의 함선들은 회피능력을 12% 부여하는 회피장막이 생성된다.
+Kalas_Battleship_4B,8000,70,50,B,II,주변의 함선들은 회피능력을 24% 부여하는 회피장막이 생성된다.
+Kalas_Battleship_5B,9000,80,60,B,III,주변의 함선들은 회피능력을 36% 부여하는 회피장막이 생성된다.
+ShadowFang_Destroyer_1N,2000,10,6,N,I,쉐도우팽 기본 구축함 연구
+ShadowFang_Destroyer_2N,3000,20,12,N,II,받는 피해를 20%를 줄여주고 근접하는 함선에 피해를 주는 화염 장막을 생성
+ShadowFang_Destroyer_3A,4000,30,18,A,I,받는 피해를 30%를 줄여주고 근접하는 함선에 피해를 주는 화염 장막을 생성
+ShadowFang_Destroyer_4A,5000,40,24,A,II,받는 피해를 40%를 줄여주고 화염장막 범위가 증가한다.
+ShadowFang_Destroyer_5A,6000,50,30,A,III,받는 피해를 50%를 줄여주고 화염장막 범위가 증가한다.
+ShadowFang_Destroyer_3B,4000,30,18,B,I,기뢰를 5개 설치하여 근접하는 적에게 일반 피해와 승무원 피해를 동시에 준다. 
+ShadowFang_Destroyer_4B,5000,40,24,B,II,기뢰를 5개 설치하여 근접하는 적에게 일반 피해와 승무원 피해를 동시에 준다. 
+ShadowFang_Destroyer_5B,6000,50,30,B,III,기뢰를 5개 설치하여 근접하는 적에게 일반 피해와 승무원 피해를 동시에 준다. 
+ShadowFang_Auxiliary_1N,2000,10,6,N,I,쉐도우팽 기본 지원함 연구
+ShadowFang_Auxiliary_2N,3000,20,12,N,II,체력이 0이되면 자폭모드로 변환되어 적에게 돌진하여 폭파데미지를 준다.
+ShadowFang_Auxiliary_3A,4000,30,18,A,I,폭파데미지와 승무원 추가 피해가 증가한다.
+ShadowFang_Auxiliary_4A,5000,40,24,A,II,폭파데미지와 승무원 추가 피해 그리고 범위가 증가한다.
+ShadowFang_Auxiliary_5A,6000,50,30,A,III,폭파데미지와 승무원 추가 피해 그리고 범위가 증가한다.
+ShadowFang_Auxiliary_3B,4000,30,18,B,I,일정 범위내에 제압 사격용 탄환을 날려 10초동안 공격과 이동속도를 30% 감소한다.
+ShadowFang_Auxiliary_4B,5000,40,24,B,II,공격과 이동속도를 50% 감소한다.
+ShadowFang_Auxiliary_5B,6000,50,30,B,III,공격과 이동속도를 70% 감소한다.
+ShadowFang_Cruiser_1N,3000,20,18,N,I,쉐도우팽 기본 순양함 연구
+ShadowFang_Cruiser_2N,4000,30,24,N,II,단일 대상을 12초간 지속 공격한다. 일정 시간 이후 적 함선 전체 능력 10%를 감소
+ShadowFang_Cruiser_3A,5000,40,30,A,I,단일 대상을 12초간 지속 공격한다. 일정 시간 이후 적 함선 전체 능력 20%를 감소
+ShadowFang_Cruiser_4A,6000,50,36,A,II,단일 대상을 12초간 지속 공격한다. 일정 시간 이후 적 함선 전체 능력 30%를 감소
+ShadowFang_Cruiser_5A,7000,60,42,A,III,단일 대상을 12초간 지속 공격한다. 일정 시간 이후 적 함선 전체 능력 40%를 감소
+ShadowFang_Cruiser_3B,5000,40,30,B,I,적함선에 부착형 트랩을 날려 주변의 5회 적들을 공격한다.
+ShadowFang_Cruiser_4B,6000,50,36,B,II,부착형 트랩에 공격 범위와 승무원 피해가 증가한다.
+ShadowFang_Cruiser_5B,7000,60,42,B,III,부착형 트랩에 공격 범위와 승무원 피해가 증가한다.
+ShadowFang_Carrier_1N,4000,30,20,N,I,쉐도우팽 기본 항공모함 연구
+ShadowFang_Carrier_2N,5000,40,30,N,II,함재기에게 30회 공격을 받았을 때 공격력이 20% 하락합니다.
+ShadowFang_Carrier_3A,6000,50,40,A,I,함재기에게 30회 공격을 받았을 때 공격력이 30% 하락합니다.
+ShadowFang_Carrier_4A,7000,60,50,A,II,함재기에게 30회 공격을 받았을 때 공격력이 40% 하락합니다.
+ShadowFang_Carrier_5A,8000,70,60,A,III,함재기에게 30회 공격을 받았을 때 공격력이 50% 하락합니다.
+ShadowFang_Carrier_3B,6000,50,40,B,I,함재기가 자폭모드로 변환하여 적함선에게 직접적인 데미지를 가한다.
+ShadowFang_Carrier_4B,7000,60,50,B,II,자폭 함재기의 이동속도와 공격력이 증가하다.
+ShadowFang_Carrier_5B,8000,70,60,B,III,자폭 함재기의 이동속도와 공격력이 증가하다.
+ShadowFang_Battleship_1N,5000,40,20,N,I,쉐도우팽 기본 전함 연구
+ShadowFang_Battleship_2N,6000,50,30,N,II,적함선 주변에 폭죽을 뿌려 적에게 혼란을 가한다.
+ShadowFang_Battleship_3A,7000,60,40,A,I,적함선 주변에 폭죽을 뿌려 적에게 혼란을 가한다.
+ShadowFang_Battleship_4A,8000,70,50,A,II,적함선 주변에 폭죽을 뿌려 적에게 혼란을 가한다.
+ShadowFang_Battleship_5A,9000,80,60,A,III,적함선 주변에 폭죽을 뿌려 적에게 혼란을 가한다.
+ShadowFang_Battleship_3B,7000,60,40,B,I,전함이 화염 자취를 남기며 이동합니다. 화염에 닿으면 초당 10%의 피해를 입는다.
+ShadowFang_Battleship_4B,8000,70,50,B,II,전함이 화염 자취를 남기며 이동합니다. 화염에 닿으면 초당 20%의 피해를 입는다.
+ShadowFang_Battleship_5B,9000,80,60,B,III,전함이 화염 자취를 남기며 이동합니다. 화염에 닿으면 초당 30%의 피해를 입는다.
+Aridrian_Destroyer_1N,2000,10,6,N,I,에이드리언 기본 구축함 연구
+Aridrian_Destroyer_2N,3000,20,12,N,II,외부에서 적 방어력을 무시하는 특수 미사일을 무작위 대상에게 1발 발사한다.
+Aridrian_Destroyer_3A,4000,30,18,A,I,외부에서 적 방어력을 무시하는 특수 미사일을 무작위 대상에게 2발 발사한다.
+Aridrian_Destroyer_4A,5000,40,24,A,II,외부에서 적 방어력을 무시하는 특수 미사일을 무작위 대상에게 3발 발사한다.
+Aridrian_Destroyer_5A,6000,50,30,A,III,외부에서 적 방어력을 무시하는 특수 미사일을 무작위 대상에게 4발 발사한다.
+Aridrian_Destroyer_3B,4000,30,18,B,I,레이더를 펼처 범위안에 있는 적 함재기를 요격한다.
+Aridrian_Destroyer_4B,5000,40,24,B,II,적함재기 요격 미사일 쿨타임이 줄어든다.
+Aridrian_Destroyer_5B,6000,50,30,B,III,적함재기 요격 미사일 쿨타임이 줄어든다.
+Aridrian_Auxiliary_1N,2000,10,6,N,I,에이드리언 기본 지원함 연구
+Aridrian_Auxiliary_2N,3000,20,12,N,II,주변에 피해입은 아군 함선에 지원 드론을 보내 함선 내구도의 10% 수리합니다.
+Aridrian_Auxiliary_3A,4000,30,18,A,I,주변에 피해입은 아군 함선에 지원 드론을 보내 함선 내구도의 20% 수리합니다.
+Aridrian_Auxiliary_4A,5000,40,24,A,II,주변에 피해입은 아군 함선에 지원 드론을 보내 함선 내구도의 30% 수리합니다.
+Aridrian_Auxiliary_5A,6000,50,30,A,III,주변에 피해입은 아군 함선에 지원 드론을 보내 함선 내구도의 40% 수리합니다.
+Aridrian_Auxiliary_3B,4000,30,18,B,I,10초 동안 주변 함선의 공격 속도를 30% 상승시킵니다.
+Aridrian_Auxiliary_4B,5000,40,24,B,II,10초 동안 주변 함선의 공격 속도를 50% 상승시킵니다.
+Aridrian_Auxiliary_5B,6000,50,30,B,III,10초 동안 주변 함선의 공격 속도를 70% 상승시킵니다.
+Aridrian_Cruiser_1N,3000,20,18,N,I,에이드리언 기본 순양함 연구
+Aridrian_Cruiser_2N,4000,30,24,N,II,타겟된 적을 추적하는 16개의 미사일이 발사된다.
+Aridrian_Cruiser_3A,5000,40,30,A,I,타겟된 적을 추적하는 20개의 미사일이 발사된다.
+Aridrian_Cruiser_4A,6000,50,36,A,II,타겟된 적을 추적하는 24개의 미사일이 발사된다.
+Aridrian_Cruiser_5A,7000,60,42,A,III,타겟된 적을 추적하는 28개의 미사일이 발사된다.
+Aridrian_Cruiser_3B,5000,40,30,B,I,일정 범위를 모두 태워버리는 특수 미사일을 발사한다.
+Aridrian_Cruiser_4B,6000,50,36,B,II,미사일의 피해 범위가 25% 증가한다.
+Aridrian_Cruiser_5B,7000,60,42,B,III,미사일의 피해 범위가 50% 증가한다.
+Aridrian_Carrier_1N,4000,30,20,N,I,에이드리언 기본 항공모함 연구
+Aridrian_Carrier_2N,5000,40,30,N,II,출격한 특수 드론에게 30회 공격을 받았을 때 방어력이 10% 하락합니다.
+Aridrian_Carrier_3A,6000,50,40,A,I,출격한 특수 드론에게 30회 공격을 받았을 때 방어력이 15% 하락합니다.
+Aridrian_Carrier_4A,7000,60,50,A,II,출격한 특수 드론에게 30회 공격을 받았을 때 방어력이 20% 하락합니다.
+Aridrian_Carrier_5A,8000,70,60,A,III,출격한 특수 드론에게 30회 공격을 받았을 때 방어력이 25% 하락합니다.
+Aridrian_Carrier_3B,6000,50,40,B,I,교란 능력을 없애고 함재기를 폭격기로 교체한다.
+Aridrian_Carrier_4B,7000,60,50,B,II,폭격기의 공격력과 사거리가 증가한다 
+Aridrian_Carrier_5B,8000,70,60,B,III,폭격기의 공격력과 사거리가 증가한다 
+Aridrian_Battleship_1N,5000,40,20,N,I,에이드리언 기본 전함 연구
+Aridrian_Battleship_2N,6000,50,30,N,II,국지 방어기를 출격시켜 피해를 주는 탄환을 30회 격추시킨다.
+Aridrian_Battleship_3A,7000,60,40,A,I,국지 방어기를 출격시켜 피해를 주는 탄환을 60회 격추시킨다.
+Aridrian_Battleship_4A,8000,70,50,A,II,국지 방어기를 출격시켜 피해를 주는 탄환을 90회 격추시킨다.
+Aridrian_Battleship_5A,9000,80,60,A,III,국지 방어기를 출격시켜 피해를 주는 탄환을 120회 격추시킨다.
+Aridrian_Battleship_3B,7000,60,40,B,I,전함 체력의 40%를 가지는 탄도 미사일을 발사하여 적 공격을 막아내며 날아간다.
+Aridrian_Battleship_4B,8000,70,50,B,II,전함 체력의 60%를 가지는 탄도 미사일을 발사하여 적 공격을 막아내며 날아간다.
+Aridrian_Battleship_5B,9000,80,60,B,III,전함 체력의 80%를 가지는 탄도 미사일을 발사하여 적 공격을 막아내며 날아간다.
+Harbinger_Destroyer_1N,2000,10,6,N,I,하빈저 기본 구축함 연구
+Harbinger_Destroyer_2N,3000,20,12,N,II,10초간 전기장을 생성하여 2초당 5% 범위 피해와 쉴드 기능을 정지시킨다.
+Harbinger_Destroyer_3A,4000,30,18,A,I,10초간 전기장을 생성하여 2초당 10% 범위 피해와 쉴드 기능을 정지시킨다.
+Harbinger_Destroyer_4A,5000,40,24,A,II,10초간 전기장을 생성하여 2초당 15% 범위 피해와 쉴드 기능을 정지시킨다.
+Harbinger_Destroyer_5A,6000,50,30,A,III,10초간 전기장을 생성하여 2초당 20% 범위 피해와 쉴드 기능을 정지시킨다.
+Harbinger_Destroyer_3B,4000,30,18,B,I,적 함선의 쉴드 전력을 뺏어와 함선의 응급 쉴드 전력으로 재구성한다.
+Harbinger_Destroyer_4B,5000,40,24,B,II,적 함선의 쉴드 전력을 뺏어와 함선의 응급 쉴드 전력으로 재구성한다.
+Harbinger_Destroyer_5B,6000,50,30,B,III,적 함선의 쉴드 전력을 뺏어와 함선의 응급 쉴드 전력으로 재구성한다.
+Harbinger_Auxiliary_1N,2000,10,6,N,I,하빈저 기본 지원함 연구
+Harbinger_Auxiliary_2N,3000,20,12,N,II,쉴드를 회복시키는 전자 파동을 방출한다. (지원함 공격력x2)
+Harbinger_Auxiliary_3A,4000,30,18,A,I,쉴드를 회복시키는 전자 파동을 방출한다. (지원함 공격력x3)
+Harbinger_Auxiliary_4A,5000,40,24,A,II,쉴드를 회복시키는 전자 파동을 방출한다. (지원함 공격력x4)
+Harbinger_Auxiliary_5A,6000,50,30,A,III,쉴드를 회복시키는 전자 파동을 방출한다. (지원함 공격력x5)
+Harbinger_Auxiliary_3B,4000,30,18,B,I,적 함재기를 요격하고 아군의 쉴드 재충전이 빨라지는 전기 파형을 보낸다.
+Harbinger_Auxiliary_4B,5000,40,24,B,II,적 함재기를 요격하고 아군의 쉴드 재충전이 빨라지는 전기 파형을 보낸다.
+Harbinger_Auxiliary_5B,6000,50,30,B,III,적 함재기를 요격하고 아군의 쉴드 재충전이 빨라지는 전기 파형을 보낸다.
+Harbinger_Cruiser_1N,3000,20,18,N,I,하빈저 기본 순양함 연구
+Harbinger_Cruiser_2N,4000,30,24,N,II,2명의 적을 옮겨다니며 피해를 주는 전기구체를 발사하여 피해를 준다
+Harbinger_Cruiser_3A,5000,40,30,A,I,3명의 적을 옮겨다니며 피해를 주는 전기구체를 발사하여 피해를 준다
+Harbinger_Cruiser_4A,6000,50,36,A,II,4명의 적을 옮겨다니며 피해를 주는 전기구체를 발사하여 피해를 준다
+Harbinger_Cruiser_5A,7000,60,42,A,III,5명의 적을 옮겨다니며 피해를 주는 전기구체를 발사하여 피해를 준다
+Harbinger_Cruiser_3B,5000,40,30,B,I,전방의 모든 적을 관통하는 거대한 뇌격을 발사한다.
+Harbinger_Cruiser_4B,6000,50,36,B,II,전방의 모든 적을 관통하는 거대한 뇌격을 발사한다.
+Harbinger_Cruiser_5B,7000,60,42,B,III,전방의 모든 적을 관통하는 거대한 뇌격을 발사한다.
+Harbinger_Carrier_1N,4000,30,20,N,I,하빈저 기본 항공모함 연구
+Harbinger_Carrier_2N,5000,40,30,N,II,전격 피해를 주고 공격속도를 줄이는 안개를 소환한다.
+Harbinger_Carrier_3A,6000,50,40,A,I,지속시간 6초와 전격 피해를 6회 주는 안개를 소환한다.
+Harbinger_Carrier_4A,7000,60,50,A,II,지속시간 7초와 전격 피해를 7회 주는 안개를 소환한다.
+Harbinger_Carrier_5A,8000,70,60,A,III,지속시간 8초와 전격 피해를 8회 주는 안개를 소환한다.
+Harbinger_Carrier_3B,6000,50,40,B,I,모든 공격을 12초 동안 막아주는 전력 쉴드를 함재기에 지원한다.
+Harbinger_Carrier_4B,7000,60,50,B,II,모든 공격을 16초 동안 막아주는 전력 쉴드를 함재기에 지원한다.
+Harbinger_Carrier_5B,8000,70,60,B,III,모든 공격을 20초 동안 막아주는 전력 쉴드를 함재기에 지원한다.
+Harbinger_Battleship_1N,5000,40,20,N,I,하빈저 기본 전함 연구
+Harbinger_Battleship_2N,6000,50,30,N,II,대상을 쫓는 정전기 블랙홀을 생성한다.
+Harbinger_Battleship_3A,7000,60,40,A,I,공격력이 증가한다.
+Harbinger_Battleship_4A,8000,70,50,A,II,공격력과 이동속도가 증가한다.
+Harbinger_Battleship_5A,9000,80,60,A,III,공격력과 이동속도가 증가한다.
+Harbinger_Battleship_3B,7000,60,40,B,I,적에게 받은 피해를 축적하여 단일 대상에게 25%만큼 반사한다.
+Harbinger_Battleship_4B,8000,70,50,B,II,적에게 받은 피해를 축적하여 단일 대상에게 50%만큼 반사한다.
+Harbinger_Battleship_5B,9000,80,60,B,III,적에게 받은 피해를 축적하여 단일 대상에게 75%만큼 반사한다.

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1905985866
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c41c1ed23eec56eca9d7d9ef837316c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f81471f4cfc7bf93c7fa752ebb4eb40
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/04. Images/[Object]/[Main]/Race/Atlas/Race_Terran.spriteatlas
+- Assets/04. Images/[Object]/[Main]/Race/Atlas/Race_Harbinger.spriteatlas
+- Assets/04. Images/[Object]/[Main]/Race/Atlas/Race_Aridrian.spriteatlas
+- Assets/04. Images/[Object]/[Main]/Race/Atlas/Race_ShadowFang.spriteatlas
+Dependencies: []
