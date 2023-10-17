@@ -5,4 +5,3 @@
 
 ## 플레이 영상
 [플레이 영상](https://www.youtube.com/watch?v=VMHAhc_EKaA)
-
